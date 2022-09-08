@@ -14,8 +14,7 @@
 <h3 align="left">Profile Stats:</h3>
 <div align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=FarhanSyed23&hide=issues&count_private=true&&hide_border=true&include_all_commits=true&show_icons=true&theme=cool" 
-        />
+    <img src="https://github-readme-stats.vercel.app/api?username=FarhanSyed23&hide=issues&count_private=true&&hide_border=true&include_all_commits=true&show_icons=true&theme=vue" />
     </p>
 </div>
 
